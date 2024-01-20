@@ -4,9 +4,9 @@ Markdown Supported Note Taking With Categories App Set Up For QA Automation
 
 # Description
 
-Repo cloned from: https://www.youtube.com/watch?v=j898RGRw0b4&ab_channel=WebDevSimplified 
+Repo cloned from Wed Dev Simplified: https://www.youtube.com/watch?v=j898RGRw0b4&ab_channel=WebDevSimplified 
 
-Added simplet set up for end to end testing with Playwright
+Added simple set up for end to end testing with Playwright
 
 ### Usage
 
