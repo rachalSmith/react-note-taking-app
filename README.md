@@ -24,12 +24,6 @@ npm install
 npm run dev
 ```
 
-#### Install 
-
-```bash
-npm run dev
-```
-
 #### VS Code Extensions
 
 Make sure you add the Microscoft VS code extension
